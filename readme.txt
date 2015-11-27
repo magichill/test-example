@@ -1,2 +1,2 @@
 readme
-this is a test.
+this is a git test.
